@@ -1,9 +1,9 @@
 # EjericioPOO_Jefe
 Construya una clase de nombre Jefe que tiene los siguientes atributos: Nombres, DNI, Cargo (Gerente y Subgerente), Área (Contabilidad, Planificación), años de antigüedad. Construya su constructor y desarrolle los métodos que permitan hacer lo siguiente:
 
-- [◉ Youtube](https://www.youtube.com/@BenjiJ379){:target="_blank"}
-- [◉ TikTok](https://www.tiktok.com/@benji.al.379){:target="_blank"}
-- [◉ Instagram](https://www.instagram.com/benji_jal/){:target="_blank"}
+- [Youtube](https://www.youtube.com/@BenjiJ379)
+- [TikTok](https://www.tiktok.com/@benji.al.379)
+- [Instagram](https://www.instagram.com/benji_jal/)
 
 [Ver Video en YouTube](https://youtu.be/aXxKnixBm5o)
 
